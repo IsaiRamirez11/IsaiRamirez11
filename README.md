@@ -28,11 +28,11 @@ También desarrollo software cuando el problema lo necesita.
 
 **— Redes & Seguridad —**
 
-<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1BA0D7" height="50"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="50"/>
 
 <br/><br/>
 
@@ -86,15 +86,15 @@ También desarrollo software cuando el problema lo necesita.
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=0d1117&title_color=9b72cf&icon_color=6e40c9&text_color=c9d1d9&ring_color=2d1b69"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=0d1117&title_color=9b72cf&text_color=c9d1d9"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b72cf&icon_color=6e40c9&text_color=c9d1d9&ring_color=2d1b69&card_width=400"/>
+&nbsp;&nbsp;
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=9b72cf&text_color=c9d1d9&card_width=300"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IsaiRamirez11&hide_border=true&background=0d1117&ring=6e40c9&fire=9b72cf&currStreakLabel=9b72cf&sideLabels=6e40c9&dates=c9d1d9&stroke=2d1b69"/>
+<img src="https://streak-stats.demolab.com/?user=IsaiRamirez11&hide_border=true&background=0D1117&ring=6e40c9&fire=9b72cf&currStreakLabel=9b72cf&sideLabels=6e40c9&dates=c9d1d9&stroke=2d1b69&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -102,7 +102,7 @@ También desarrollo software cuando el problema lo necesita.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaiRamirez11&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=9b72cf&line=6e40c9&point=ffffff&area_color=2d1b6944"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaiRamirez11&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=9b72cf&line=6e40c9&point=9b72cf&area_color=2d1b69"/>
 
 </div>
 
