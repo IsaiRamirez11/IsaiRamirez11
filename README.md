@@ -30,9 +30,11 @@ También desarrollo software cuando el problema lo necesita.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1BA0D7" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" title="Kali Linux"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" title="Arch Linux"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" title="Wireshark"/>
 
 <br/><br/>
 
@@ -86,9 +88,9 @@ También desarrollo software cuando el problema lo necesita.
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b72cf&icon_color=6e40c9&text_color=c9d1d9&ring_color=2d1b69&card_width=400"/>
+<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b72cf&icon_color=6e40c9&text_color=c9d1d9&ring_color=2d1b69"/>
 &nbsp;&nbsp;
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=9b72cf&text_color=c9d1d9&card_width=300"/>
+<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=9b72cf&text_color=c9d1d9"/>
 
 </div>
 
