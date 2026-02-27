@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,30:0a1628,60:0d2137,100:060d1f&height=280&section=header&text=Isai%20Ramirez&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Network%20Infrastructure%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descAlignY=58&descSize=14&animation=fadeIn&fontAlignX=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,30:0a1628,60:0d2137,100:060d1f&height=280&section=header&text=Isai%20Ramirez&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Network%20Infrastructure%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descAlignY=58&descSize=14&animation=fadeIn" />
 
 </div>
 
@@ -26,7 +26,7 @@ También desarrollo software cuando el problema lo necesita.</sub>
 
 <br/>
 
-## &nbsp;⚙️ &nbsp;Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -84,13 +84,13 @@ También desarrollo software cuando el problema lo necesita.</sub>
 
 <br/>
 
-## &nbsp;🌐 &nbsp;Infraestructura de Redes
+## Infraestructura de Redes
 
 <br/>
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tecnologías |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tecnologías |
 |:---:|:---|
 | **Segmentación** | VLAN &nbsp;·&nbsp; Router-on-a-Stick &nbsp;·&nbsp; Switch Capa 3 |
 | **Direccionamiento** | DHCP estático y dinámico |
@@ -104,13 +104,13 @@ También desarrollo software cuando el problema lo necesita.</sub>
 
 <br/>
 
-## &nbsp;📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <br/>
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060d1f&title_color=4d9de0&icon_color=1e6fa8&text_color=c9d1d9&ring_color=0d2137"/>
+<img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api?username=IsaiRamirez11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060d1f&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9&ring_color=1e6fa8"/>
 &nbsp;&nbsp;
 <img height="195em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&hide_border=true&langs_count=8&bg_color=060d1f&title_color=4d9de0&text_color=c9d1d9"/>
 
@@ -118,7 +118,7 @@ También desarrollo software cuando el problema lo necesita.</sub>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=IsaiRamirez11&hide_border=true&background=060d1f&ring=1e6fa8&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=1e6fa8&dates=8b9ab5&stroke=0d2137&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com/?user=IsaiRamirez11&hide_border=true&background=060d1f&ring=1e6fa8&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=1e6fa8&dates=8b9ab5&stroke=060d1f&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
@@ -126,7 +126,7 @@ También desarrollo software cuando el problema lo necesita.</sub>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaiRamirez11&theme=tokyo-night&hide_border=true&area=true&bg_color=060d1f&color=4d9de0&line=1e6fa8&point=4d9de0&area_color=0d2137"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaiRamirez11&hide_border=true&area=true&bg_color=060d1f&color=4d9de0&line=1e6fa8&point=4d9de0&area_color=0d2137"/>
 
 </div>
 
@@ -137,8 +137,6 @@ También desarrollo software cuando el problema lo necesita.</sub>
 <br/>
 
 <div align="center">
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,30:0a1628,60:0d2137,100:060d1f&height=100&section=footer&text=Si%20algo%20no%20aguanta%20%E2%80%94%20se%20redisei%C3%B1a.%20No%20se%20parchea.&fontSize=13&fontColor=4d9de0&fontAlignY=65&animation=fadeIn"/>
 
