@@ -1,91 +1,71 @@
 <h1 align="center">Isai Ramirez</h1>
 
 <p align="center">
-  Network Infrastructure | Cybersecurity | Software Development
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Infrastructure%20%7C%20Security%20%7C%20Development&fontSize=28&fontColor=ffffff" />
+  Infraestructura de Redes • Ciberseguridad • Desarrollo
 </p>
 
 ---
 
-## Professional Profile
+## Perfil
 
-Focused on network infrastructure design, routing technologies, and secure system implementation.  
-Experience building structured topologies integrating routing protocols, VLAN segmentation, and enterprise services.
+Me enfoco en infraestructura de redes, configuración de routers y switches, y construcción de topologías funcionales con segmentación real.
 
-Currently working with:
+Trabajo principalmente con:
 
-- Layer 2 / Layer 3 Switching
-- Dynamic Routing Protocols
-- Linux Systems
-- Backend & Frontend Development
-- Network Security Fundamentals
+- VLAN y segmentación de red
+- Switches capa 3
+- Enrutamiento dinámico (RIP / fundamentos OSPF)
+- Servicios de red (DNS, Web, FTP, Mail)
+- Linux
+- Desarrollo con Java y tecnologías web
 
 ---
 
-## Technology Stack
+## Tecnologías
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
-<img src="https://img.icons8.com/color/96/network.png" width="55" title="Networking"/>
-<img src="https://img.icons8.com/color/96/cyber-security.png" width="55" title="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Network Engineering Skills
+## Infraestructura de Redes
 
-- VLAN Design & Segmentation  
-- Inter-VLAN Routing  
-- Router-on-a-Stick  
-- Layer 3 Switching  
-- DHCP Configuration  
-- RIP v2 / OSPF Fundamentals  
-- Static & Dynamic Routing  
-- Enterprise Topology Design  
+- Diseño de topologías empresariales
+- Inter-VLAN Routing
+- Router-on-a-Stick
+- DHCP centralizado
+- Configuración de Switch capa 3
+- Integración de servidores en red
 
 ---
 
-## Development Skills
+## Desarrollo
 
-- Java Application Development  
-- HTML5 / CSS  
-- PHP Backend Basics  
-- JavaScript Fundamentals  
-- Structured Programming  
-
----
-
-## Cybersecurity Focus
-
-- Linux Hardening Basics  
-- Network Segmentation  
-- Traffic Analysis  
-- Basic Vulnerability Assessment  
-- Secure Configuration Practices  
+- Aplicaciones en Java
+- Backend básico en PHP
+- Estructura web con HTML
+- Automatización y lógica estructurada
 
 ---
 
-## GitHub Statistics
+## Seguridad
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Segmentación segura de red
+- Configuración segura de servicios
+- Fundamentos de Linux
+- Buenas prácticas de hardening
 
 ---
 
-## Contact
+## Contacto
 
 isairami1107@gmail.com
