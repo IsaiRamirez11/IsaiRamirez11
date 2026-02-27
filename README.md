@@ -1,23 +1,19 @@
 <h1 align="center">Isai Ramirez</h1>
 
 <p align="center">
-  Infraestructura de Redes • Ciberseguridad • Desarrollo
+  Network Infrastructure | Cybersecurity | Development
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Infrastructure%20%7C%20Cybersecurity%20%7C%20Development&fontSize=28&fontColor=ffffff" />
 </p>
 
 ---
 
-## Perfil
+## Sobre mí
 
-Me enfoco en infraestructura de redes, configuración de routers y switches, y construcción de topologías funcionales con segmentación real.
-
-Trabajo principalmente con:
-
-- VLAN y segmentación de red
-- Switches capa 3
-- Enrutamiento dinámico (RIP / fundamentos OSPF)
-- Servicios de red (DNS, Web, FTP, Mail)
-- Linux
-- Desarrollo con Java y tecnologías web
+Trabajo en diseño y configuración de infraestructura de red, integración de servicios y desarrollo de software.  
+Me enfoco en segmentación real de redes, enrutamiento dinámico y seguridad básica en entornos Linux.
 
 ---
 
@@ -25,13 +21,16 @@ Trabajo principalmente con:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 
 </p>
 
@@ -39,30 +38,34 @@ Trabajo principalmente con:
 
 ## Infraestructura de Redes
 
-- Diseño de topologías empresariales
-- Inter-VLAN Routing
+- VLAN y segmentación
 - Router-on-a-Stick
-- DHCP centralizado
-- Configuración de Switch capa 3
-- Integración de servidores en red
+- Switch Capa 3
+- DHCP
+- RIP v2
+- Integración de servidores (DNS, Web, FTP, Mail)
 
 ---
 
-## Desarrollo
+## Estadísticas
 
-- Aplicaciones en Java
-- Backend básico en PHP
-- Estructura web con HTML
-- Automatización y lógica estructurada
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiRamirez11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Seguridad
-
-- Segmentación segura de red
-- Configuración segura de servicios
-- Fundamentos de Linux
-- Buenas prácticas de hardening
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsaiRamirez11&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
