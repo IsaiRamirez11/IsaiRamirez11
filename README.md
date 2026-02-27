@@ -1,74 +1,110 @@
-<h1 align="center">Isai Ramirez</h1>
+<div align="center">
 
-<p align="center">
-  Network Infrastructure | Cybersecurity | Development
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Isai%20Ramirez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Network%20Infrastructure%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Development&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Infrastructure%20%7C%20Cybersecurity%20%7C%20Development&fontSize=28&fontColor=ffffff" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:isairami1107@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-isairami1107-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=IsaiRamirez11&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
 
 ---
 
-## Sobre mí
+```
+> whoami
+```
 
-Trabajo en diseño y configuración de infraestructura de red, integración de servicios y desarrollo de software.  
-Me enfoco en segmentación real de redes, enrutamiento dinámico y seguridad básica en entornos Linux.
+**Diseño, configuro y aseguro infraestructura de red.** Me especializo en entornos donde la segmentación real importa, el enrutamiento dinámico tiene que funcionar bajo presión y la seguridad no es opcional. También desarrollo software cuando el problema lo exige.
+
+No me interesa el trabajo superficial. Me interesa que las redes aguanten, que el código tenga sentido y que la seguridad sea parte del diseño desde el principio, no un parche al final.
 
 ---
 
-## Tecnologías
+## Stack Tecnológico
 
-<p align="center">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+### Redes & Seguridad
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-</p>
+### Lenguajes
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### Web & Herramientas
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
 
 ---
 
 ## Infraestructura de Redes
 
-- VLAN y segmentación
-- Router-on-a-Stick
-- Switch Capa 3
-- DHCP
-- RIP v2
-- Integración de servidores (DNS, Web, FTP, Mail)
+```yaml
+Arquitectura:
+  - VLAN y segmentación de redes
+  - Router-on-a-Stick (inter-VLAN routing)
+  - Switching Capa 3
+  - DHCP (estático y dinámico)
+  - RIP v2
+
+Servicios:
+  - DNS
+  - Servidores Web
+  - FTP
+  - Mail
+```
 
 ---
 
-## Estadísticas
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiRamirez11&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaiRamirez11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiRamirez11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsaiRamirez11&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiRamirez11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaiRamirez11&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 ## Contacto
 
+```
 isairami1107@gmail.com
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
