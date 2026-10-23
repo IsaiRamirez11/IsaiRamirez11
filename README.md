@@ -150,15 +150,3 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,30:0a1628,60:0d2137,100:060d1f&height=100&section=footer&text=Si%20algo%20no%20aguanta%20%E2%80%94%20se%20redisei%C3%B1a.%20No%20se%20parchea.&fontSize=13&fontColor=4d9de0&fontAlignY=65&animation=fadeIn"/>
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
