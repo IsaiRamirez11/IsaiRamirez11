@@ -123,33 +123,6 @@
 
 <br/>
 
-## Featured Projects
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/IsaiRamirez11/Proyectos-de-redes-y-ciberseguridad">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=IsaiRamirez11&repo=Proyectos-de-redes-y-ciberseguridad&hide_border=true&bg_color=060d1f&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9"/>
-</a>
-&nbsp;
-<a href="https://github.com/IsaiRamirez11/Documentacion-de-Redes">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=IsaiRamirez11&repo=Documentacion-de-Redes&hide_border=true&bg_color=060d1f&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/IsaiRamirez11/Programacion-Estructurada-IRD-2026">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=IsaiRamirez11&repo=Programacion-Estructurada-IRD-2026&hide_border=true&bg_color=060d1f&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9"/>
-</a>
-&nbsp;
-<a href="https://github.com/IsaiRamirez11/Leblanc-coffee-web-site-project">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=IsaiRamirez11&repo=Leblanc-coffee-web-site-project&hide_border=true&bg_color=060d1f&title_color=4d9de0&icon_color=4d9de0&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<br/>
 
 ## GitHub Stats
 
