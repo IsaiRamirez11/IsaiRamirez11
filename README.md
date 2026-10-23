@@ -8,10 +8,6 @@
   <a href="mailto:isairami1107@gmail.com">
     <img src="https://img.shields.io/badge/isairami1107%40gmail.com-060d1f?style=for-the-badge&logo=gmail&logoColor=4d9de0"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=IsaiRamirez11&style=for-the-badge&color=0d2137&label=PROFILE+VIEWS&abbreviated=true"/>
-</div>
-
 <br/>
 
 <div align="center">
