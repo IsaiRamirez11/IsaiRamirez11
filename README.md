@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-<sub>Network & security-minded engineer building reliable, secure infrastructure.<br/>
+<sub>Network & security-minded student building reliable, secure infrastructure.<br/>
  I with a software development background and  web.<br/>
  Focused on infrastructure that stays up, stays secure, and scales.</sub>
 </div>
